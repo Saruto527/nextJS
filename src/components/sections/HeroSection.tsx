@@ -1,5 +1,5 @@
-import Image from 'next/image';
-import Link from 'next/link';
+import Image from "next/image";
+import Link from "next/link";
 
 export default function HeroSection() {
     return (
@@ -7,7 +7,7 @@ export default function HeroSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
           <div className="flex flex-col justify-center">
             <h1 className="text-5xl font-bold mb-6 text-black">
-              Hello, I'm<br />
+              Hello, I am<br />
               Mehmet Akif.
             </h1>
             <p className="text-lg mb-6 text-black max-w-md">
