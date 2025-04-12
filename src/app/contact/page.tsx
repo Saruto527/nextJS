@@ -1,5 +1,5 @@
-import Navbar from '@/components/layout/Navbar';
-import Footer from '@/components/layout/Footer';
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
 
 export default function ContactPage() {
   return (
@@ -13,7 +13,7 @@ export default function ContactPage() {
           <div>
             <p className="text-gray-800 mb-8">
               Feel free to reach out for collaborations, questions, or just a friendly chat.
-              I'm always open to discussing new projects and creative ideas.
+              I am always open to discussing new projects and creative ideas.
             </p>
             
             <div className="mb-8">
